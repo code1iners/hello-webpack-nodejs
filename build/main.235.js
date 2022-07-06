@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhello_webpack=self.webpackChunkhello_webpack||[]).push([[235],{235:(e,t,n)=>{n.r(t),n.d(t,{fetchTodos:()=>c});var c=function(){return fetch("https://jsonplaceholder.typicode.com/posts").then((function(e){return e.json()})).then((function(e){return e}))}}}]);
